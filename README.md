@@ -15,13 +15,13 @@
     <h2>Education & Experience</h2>
     <div class="education">
         <h3>Technische Universität Darmstadt</h3>
-        <p>PhD in Materials Science (Apr. 2020 – Present)</p>
+        <p>PhD in Materials Science</p>
         <p>Research Focus: Multi-scale modeling of magnetic materials via machine learning</p>
         <h3>Technische Universität Darmstadt</h3>
-        <p>M.Sc in Materials Science (Oct. 2016 – Apr. 2020)</p>
+        <p>M.Sc in Materials Science</p>
         <p>Master Thesis: First-Principles Investigation of lattice anharmonicity and its relative properties for Sn and BN</p>
         <h3>Harbin Institute of Technology</h3>
-        <p>Bachelor of Engineering in Materials Science and Engineering (Sept. 2012 - July 2016)</p>
+        <p>Bachelor of Engineering in Materials Science and Engineering</p>
     </div>
 
     <h2>Expertise & Skills</h2>
