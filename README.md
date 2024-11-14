@@ -12,14 +12,6 @@
 </head>
 <body>
     <h1>Yixuan Zhang</h1>
-    <div class="contact-info">
-        <p>Phone: +86 18503478203</p>
-        <p>Address: Gruberstraße 6, 64289 Darmstadt, Germany</p>
-        <p>Email: <a href="mailto:yixuan.zhang@tu-darmstadt.de">yixuan.zhang@tu-darmstadt.de</a></p>
-        <p>Nationality: P. R. China</p>
-        <p>Date of Birth: 06.05.1993</p>
-        <p>Gender: Male</p>
-    </div>
 
     <h2>Education & Experience</h2>
     <div class="education">
